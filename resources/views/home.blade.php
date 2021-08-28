@@ -1,86 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Knight Bootstrap Template - Index</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="{{ asset('assets/img/favicon.png') }}" rel="icon">
-  <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('assets/vendor/icofont/icofont.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('assets/vendor/venobox/venobox.css') }}" rel="stylesheet">
-  <link href="{{ asset('assets/vendor/owl.carousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('assets/vendor/aos/aos.css') }}" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Knight - v2.2.1
-  * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <a href="index.html" class="hero-logo" data-aos="zoom-in"><img src="{{ asset('assets/img/hero-logo.png') }}" alt=""></a>
-      <h1 data-aos="zoom-in">PREMAB-Afrique</h1>
-      <h2 data-aos="fade-up">Nous somme ensemble pour mieux construire</h2>
-      <a data-aos="fade-up" href="#about" class="btn-get-started scrollto">Commencer</a>
-    </div>
-  </section><!-- End Hero -->
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container">
-
-      <!-- The main logo is shown in mobile version only. The centered nav-logo in nav menu is displayed in desktop view  -->
-      <div class="logo d-block d-lg-none">
-        <a href="index.html"><img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid"></a>
-      </div>
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul class="nav-inner">
-          <li class="active"><a href="index.html">Acceuil</a></li>
-          <li class="drop-down"><a href="">A propos</a>
-            <ul>
-              <li><a href="#about">A propos de nous</a></li>
-              <li><a href="#team">Team</a></li>
-            </ul>
-          </li>
-          <li><a href="#services">Services</a></li>
-
-          <li class="nav-logo"><a href="index.html"><img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid"></a></li>
-
-          <li><a href="#portfolio">Divers</a></li>
-          <li><a href="#pricing">Evenements</a></li>
-          <li><a href="#contact">Contact</a></li>
-
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
-
-  <main id="main">
-
+<!-- Get template from layouts/app.blade.php -->
+@extends('layouts.app')
+<!-- ======= Content Section ======= -->
+@section('content')
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
       <div class="container">
@@ -97,16 +18,15 @@
           </div>
           <div class="col-lg-6" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Voluptatem dignissimos provident quasi corporis</h3>
+              <h3>Nous sommes ensemble pour mieux construire</h3>
               <p class="font-italic text1">
-                La société de préfabrication des matériaux en béton (PREMAB-Afrique) contribue à des programmes de construction de logement, d'école et réhablitation de la voirie.
+                La société de préfabrication des matériaux en béton (PREMAB-Afrique) contribue à des programmes de construction de logements, d'écoles et réhablitation de la voirie.
                 La Société a pour objet :
-
               </p>
               <ul>
-                <li><i class="bx bx-check-double"></i> La préfabrication des matériaux en bétons, Pavés de luxe bloc en béton, Bétons pret à l'emploie.</li>
+                <li><i class="bx bx-check-double"></i> La préfabrication des matériaux en béton, Pavés de luxe bloc en béton, Bétons pret à l'emploie.</li>
 
-                <li><i class="bx bx-check-double"></i> La participation directe de la société dans toutes entreprises ,ayant un objet
+                <li><i class="bx bx-check-double"></i> La participation directe de la société dans toutes entreprises ayant en objet
                   l'achat de titres de création de sociétés nouvelles, d’apports.</li>
 
                   <li><i class="bx bx-check-double"></i> la pose des pavés de luxe.</li>
@@ -139,7 +59,7 @@
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-cube-alt"></i>
               <h4>Service de Livraison</h4>
-              <p>Il s’assure du bon de commande émit et du paiement effectué par le client avant de livrer le béton sur le chantier .</p>
+              <p>Il s’assure du bon de commande émit et du paiement effectué par le client avant de livrer le béton sur le chantier.</p>
             </div>
 
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
@@ -195,7 +115,7 @@
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-2">
                   <h4>La pavage</h4>
-                  <p>Cet département vise la pose de pavés sur les Voiries et Réseaux Divers (VRD), dans la construction et la
+                  <p>Ce département vise la pose de pavés sur les Voiries et Réseaux Divers (VRD), dans la construction et la
                     réhabilitation des logements, des écoles, des universités...</p>
                 </a>
               </li>
@@ -221,7 +141,7 @@
           <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-stretch">
 
             <div class="content" data-aos="fade-up">
-              <h3>Nos equipements de produsctions</h3>
+              <h3>Nos équipements de production</h3>
             </div>
 
             <div class="accordion-list">
@@ -386,7 +306,7 @@
     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="zoom-in">
         <div class="section-title" data-aos="fade-up">
-          <h2 style="color: white;">Commentaire</h2>
+          <h2 style="color: white;">Commentaires</h2>
         </div>
         <div class="quote-icon">
           <i class="bx bxs-quote-right"></i>
@@ -484,7 +404,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Team</h2>
+          <h2>Promoteurs</h2>
         </div>
 
         <div class="row">
@@ -501,9 +421,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-                <p>Animi est delectus alias quam repellendus nihil nobis dolor. Est sapiente occaecati et dolore. Omnis aut ut nesciunt explicabo qui. Eius nam deleniti ut omnis</p>
+                <h4>Amany Michel KONAN</h4>
+                <span>Economiste</span>
+                <p>Monsieur Amany Michel KONAN, Economiste, demeurant à Abidjan, Yopougon Sogefia.</p>
               </div>
             </div>
           </div>
@@ -520,9 +440,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-                <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque</p>
+                <h4>SILUE Chifolo</h4>
+                <span>Commerçant</span>
+                <p>SILUE Chifolo , Commerçant demeurant à Abidjan 17 BP 1029 Abidjan 17.</p>
               </div>
             </div>
           </div>
@@ -539,9 +459,9 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-                <p>Ut enim possimus nihil cupiditate beatae. Veniam facere quae non qui necessitatibus rerum eos vero. Maxime sit sunt quo dolor autem est qui quaerat</p>
+                <h4>SILUE Nahoua</h4>
+                <span>Chef d’Entreprise</span>
+                <p>SILUE Nahoua, Chef d’Entreprise, demeurant à Douala, République du Cameroun.</p>
               </div>
             </div>
           </div>
@@ -556,29 +476,26 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Actualité 1</h2>
+          <h2>Actualités</h2>
         </div>
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Actualité 2 (image) </h3>
-
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Actualité 3 (image) </h3>
-
+              <h3>Actualité 1 (image) </h3>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Actualité 4 (image) </h3>
+              <h3>Actualité 2 (image) </h3>
+            </div>
+          </div>
 
+          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+            <div class="box" data-aos="zoom-in" data-aos-delay="100">
+              <h3>Actualité 3 (image) </h3>
             </div>
           </div>
 
@@ -594,13 +511,13 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Question posée frequement</h2>
+          <h2>Questions posées frequement</h2>
         </div>
 
         <ul class="faq-list">
 
           <li data-aos="fade-up">
-            <a data-toggle="collapse" class="collapsed" href="#faq1">Puis-je obtenir un devis travaux détaillé ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-toggle="collapse" class="collapsed" href="#faq1">Puis-je obtenir un devis de travaux détaillé ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
                 Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
@@ -659,141 +576,6 @@
     </section><!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Contact</h2>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4">
-            <div class="info d-flex flex-column justify-content-center" data-aos="fade-right">
-              <div class="address">
-                <i class="icofont-google-map"></i>
-                <h4>Localisation:</h4>
-                <p>Abidjan,<br>Cote d'ivoire, BP 1029</p>
-              </div>
-
-              <div class="email">
-                <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
-                <p>PREMAB-Afrique@google.com</p>
-              </div>
-
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Tel:</h4>
-                <p>+225 07 87 66 79 09</p>
-              </div>
-
-            </div>
-
-          </div>
-
-          <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-aos="fade-left">
-              <div class="form-row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="col-md-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Votre message a été envoyeé. Merci à vous</div>
-              </div>
-              <div class="text-center"><button type="submit">Envoyer</button></div>
-            </form>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-
-    <div class="footer-top">
-
-      <div class="container">
-
-        <div class="row justify-content-center">
-          <div class="col-lg-6">
-            <a href="#header" class="scrollto footer-logo"><img src="{{ asset('assets/img/hero-logo.png') }}" alt=""></a>
-            <h3>PREMAB-Afrique</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-          </div>
-        </div>
-
-        <div class="row footer-newsletter justify-content-center">
-          <div class="col-lg-6">
-            <form action="" method="post">
-              <input type="email" name="email" placeholder="Enter votre email"><input type="submit" value="Souscrire">
-            </form>
-          </div>
-        </div>
-
-        <div class="social-links">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="container footer-bottom clearfix">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Knight</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/knight-free-bootstrap-theme/ -->
-        Designed by <a href="#">Olivier Tanoh</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="{{ asset('assets/vendor/jquery/jquery.min.js') }}"></script>
-  <script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-  <script src="{{ asset('assets/vendor/jquery.easing/jquery.easing.min.js') }}"></script>
-  <script src="{{ asset('assets/vendor/php-email-form/validate.js') }}"></script>
-  <script src="{{ asset('assets/vendor/jquery-sticky/jquery.sticky.js') }}"></script>
-  <script src="{{ asset('assets/vendor/venobox/venobox.min.js') }}"></script>
-  <script src="{{ asset('assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-  <script src="{{ asset('assets/vendor/owl.carousel/owl.carousel.min.js') }}"></script>
-  <script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>
-
-  <!-- Template Main JS File -->
-  <script src="{{ asset('assets/js/main.js') }}"></script>
-
-</body>
-
-</html>
+  @include('includes.contacts')
+    <!-- End Contact Section -->
+@endsection
