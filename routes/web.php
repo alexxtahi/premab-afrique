@@ -17,3 +17,16 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+
+
+Route::get('/Construction.blade.php', function () {
+    return view('Construction');
+});
+
+
+Route::get('/Renovation.blade.php', function () {
+    return view('Renovation');
+});
+
+
+

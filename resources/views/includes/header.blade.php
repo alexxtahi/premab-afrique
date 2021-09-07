@@ -9,13 +9,23 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul class="nav-inner">
           <li class="active"><a href="index.html">Acceuil</a></li>
+
           <li class="drop-down"><a href="">A propos</a>
             <ul>
               <li><a href="#about">A propos de nous</a></li>
               <li><a href="#team">Team</a></li>
             </ul>
           </li>
-          <li><a href="#services">Services</a></li>
+
+
+          <li  class="drop-down"><a >Services</a>
+            <ul>
+              <li><a href= "Construction.blade.php">Construction</a></li>
+              <li><a href="#team">Renovation</a></li>
+              <li><a href="#team">Vitrerie</a></li>
+              <li><a href="#team">Pavage</a></li>
+            </ul>
+          </li>
 
           <li class="nav-logo"><a href="{{ url('/') }}"><img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid"></a></li>
 
