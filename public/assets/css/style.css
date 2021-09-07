@@ -353,8 +353,8 @@ h6 {
 
 #hero {
     width: 100%;
-    height: 100vh;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil1.jpg') no-repeat;
+    height: 80vh;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil3.jpg') no-repeat;
     position: relative;
 }
 
@@ -1793,4 +1793,8 @@ section {
 
 .text1 {
     text-align: left;
+}
+
+.ombre :hover {
+    box-shadow: 0px 0 25px rgb(0 0 0 / 8%);
 }

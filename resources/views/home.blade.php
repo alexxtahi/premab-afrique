@@ -18,20 +18,14 @@
           </div>
           <div class="col-lg-6" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Nous sommes ensemble pour mieux construire</h3>
+              <h3>Ensemble pour mieux construire</h3>
               <p class="font-italic text1">
-                La société de préfabrication des matériaux en béton (PREMAB-Afrique) contribue à des programmes de construction de logements, d'écoles et réhablitation de la voirie.
-                La Société a pour objet :
+                Premab-afique est une entreprise de construction spécialisée dans le génie civil, le génie public et d'autres domaines. 
+                Nous possédons une vaste expertise dans  la  construction, la rénovation, l'électricité, l'etude et la conception de plan... 
+                Premab-afique réalise tous travaux de gros œuvre et rénovation, ainsi que toutes les structures du bâtiment, se positionnant ainsi comme 
+                un interlocuteur fiable dans le domaine de la construction  
+                l'entreprise s’appuie sur son professionnalisme et une réelle culture industrielle pour vous proposer la solution la mieux adaptée à vos besoins.
               </p>
-              <ul>
-                <li><i class="bx bx-check-double"></i> La préfabrication des matériaux en béton, Pavés de luxe bloc en béton, Bétons pret à l'emploie.</li>
-
-                <li><i class="bx bx-check-double"></i> La participation directe de la société dans toutes entreprises ayant en objet
-                  l'achat de titres de création de sociétés nouvelles, d’apports.</li>
-
-                  <li><i class="bx bx-check-double"></i> la pose des pavés de luxe.</li>
-              </ul>
-
             </div>
           </div>
         </div>
@@ -51,20 +45,26 @@
 
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
               <i class="bx bx-receipt"></i>
-              <h4>Service de qualité</h4>
+              <h4>Construction</h4>
               <p>Nous produisons des bétons de qualité répondant aux normes prescrites.
                 </p>
             </div>
 
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-cube-alt"></i>
-              <h4>Service de Livraison</h4>
+              <h4>  Renovation</h4>
               <p>Il s’assure du bon de commande émit et du paiement effectué par le client avant de livrer le béton sur le chantier.</p>
+            </div>
+            
+            <div class="icon-box mt-5 ombre" data-aos="fade-up" data-aos-delay="100">
+              <i class="bx bx-cube-alt"></i>  
+              <h4>  Pavage</h4>
+              <p>Il s’assure du bon de commande émit et du paiement effectué par le client. </p>
             </div>
 
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-shield"></i>
-              <h4>Nos Conseils</h4>
+              <h4>Vitrerie</h4>
               <p>Vous bénéficiez de l’assistance et du suivi de la conformité des travaux en matière de béton tout en respectant les normes prescrites par le LBTP.</p>
             </div>
           </div>
