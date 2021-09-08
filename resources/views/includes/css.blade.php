@@ -12,6 +12,7 @@
 <!-- Template Main CSS File -->
 <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 
+
 <!-- =======================================================
 * Template Name: Knight - v2.2.1
 * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/

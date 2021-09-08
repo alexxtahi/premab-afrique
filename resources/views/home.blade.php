@@ -34,45 +34,49 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Services</h2>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1">
-
-            <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
-              <i class="bx bx-receipt"></i>
-              <h4>Construction</h4>
-              <p>Nous produisons des bétons de qualité répondant aux normes prescrites.
-                </p>
-            </div>
-
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-cube-alt"></i>
-              <h4>  Renovation</h4>
-              <p>Il s’assure du bon de commande émit et du paiement effectué par le client avant de livrer le béton sur le chantier.</p>
-            </div>
-            
-            <div class="icon-box mt-5 ombre" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-cube-alt"></i>  
-              <h4>  Pavage</h4>
-              <p>Il s’assure du bon de commande émit et du paiement effectué par le client. </p>
-            </div>
-
-            <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-shield"></i>
-              <h4>Vitrerie</h4>
-              <p>Vous bénéficiez de l’assistance et du suivi de la conformité des travaux en matière de béton tout en respectant les normes prescrites par le LBTP.</p>
-            </div>
+   
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+          <div class="section-title">
+              <h2>Services</h2>
+              <p>Nous avons à notre actif une multitude de services qui repondrons à tous vos besoins tels qui soit.</p>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("{{ asset('assets/img/image1.jpg') }}");' data-aos="fade-left" data-aos-delay="100"></div>
-        </div>
+          <div class="row">
+  
+              <div class="col-xl-3 col-md-6 d-flex align-items-stretch " data-aos="zoom-in" data-aos-delay="100">
+                  <div class="icon-box">
+                      <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                      <h4><a href="">Constructionn et renovation </a></h4>
+                      <p>Construction et rénovation au meilleur prix. Conseils techniques et administratifs</p>
+                  </div>
+              </div>
 
+              <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0 nav-link.active" data-aos="zoom-in" data-aos-delay="200">
+                  <div class="icon-box">
+                      <div class="icon"><i class="bx bx-file"></i></div>
+                      <h4><a href="">Conception de plan</a></h4>
+                      <p>Nous nous occupons de concevoir l'architecture de votre et de faire de devis.</p>
+                  </div>
+              </div>
+
+              <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+                  <div class="icon-box">
+                      <div class="icon"><i class="bx bx-tachometer"></i></div>
+                      <h4><a href="">Fabrication de vitre (Vitrerie)</a></h4>
+                      <p>Nous disposons d'un attelier entièrement dedier au vitrage, nous produisons et vendons des vitres. </p>
+                  </div>
+              </div>
+
+              <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+                  <div class="icon-box">
+                      <div class="icon"><i class="bx bx-layer"></i></div>
+                      <h4><a href="">Fabrication de pavé (pavage)</a></h4>
+                      <p>Nous réalisons pour vous tous types de pavages (pose des pavés sur les Voiries) et de pose de dalles.</p>
+                  </div>
+              </div>
+          </div>
       </div>
-    </section><!-- End Services Section -->
+  </section>
 
     <!-- ======= Featured Section ======= -->
     <section id="featured" class="featured">
@@ -107,9 +111,19 @@
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-toggle="tab" href="#tab-1">
-                  <h4>La Production</h4>
-                  <p>Le département production vise essentiellement la préfabrication industrielle à grande échelle des matériaux
-                    béton, pavés de luxes...</p>
+                  <h4>Nos Atous</h4>
+                  <p>
+                    Du personnel très qualifié
+De nombreuses compétences, représentées par les moyens humains déployés pour chaque chantier :
+Un bureau d’étude interne
+Un conducteur de travaux
+Un responsable HSE
+Un chef de chantier et son équip
+                    <ul> 
+                      <li></li>
+
+                    </ul>
+                  </p>
                 </a>
               </li>
               <li class="nav-item mt-2">
@@ -131,61 +145,6 @@
 
       </div>
     </section><!-- End Featured Section -->
-
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
-      <div class="container-fluid">
-
-        <div class="row">
-
-          <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-stretch">
-
-            <div class="content" data-aos="fade-up">
-              <h3>Nos équipements de production</h3>
-            </div>
-
-            <div class="accordion-list">
-              <ul>
-                <li data-aos="fade-up" data-aos-delay="100">
-                  <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
-                    <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-                    </p>
-                  </div>
-                </li>
-
-                <li data-aos="fade-up" data-aos-delay="200">
-                  <a data-toggle="collapse" href="#accordion-list-2" class="collapsed"><span>02</span> Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-2" class="collapse" data-parent=".accordion-list">
-                    <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                    </p>
-                  </div>
-                </li>
-
-                <li data-aos="fade-up" data-aos-delay="300">
-                  <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><span>03</span> Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                  <div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
-                    <p>
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                    </p>
-                  </div>
-                </li>
-
-              </ul>
-            </div>
-
-          </div>
-
-          <div class="col-lg-5 order-1 order-lg-2 align-items-stretch video-box" style='background-image: url("{{ asset('assets/img/why-us.jpg') }}");' data-aos="zoom-in">
-            <a href="https://www.youtube.com/watch?v=LIqQNG_q2us" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Why Us Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
@@ -318,45 +277,35 @@
             <p>
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
             </p>
-            <img src="{{ asset('assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
             <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
           </div>
 
           <div class="testimonial-item">
             <p>
               Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
             </p>
-            <img src="{{ asset('assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
             <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
           </div>
 
           <div class="testimonial-item">
             <p>
               Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
             </p>
-            <img src="{{ asset('assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
             <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
           </div>
 
           <div class="testimonial-item">
             <p>
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
             </p>
-            <img src="{{ asset('assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
           </div>
 
           <div class="testimonial-item">
             <p>
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
             </p>
-            <img src="{{ asset('assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
             <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
           </div>
 
         </div>
