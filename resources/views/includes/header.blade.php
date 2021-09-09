@@ -3,17 +3,17 @@
 
       <!-- The main logo is shown in mobile version only. The centered nav-logo in nav menu is displayed in desktop view  -->
       <div class="logo d-block d-lg-none">
-        <a href="index.html"><img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid"></a>
+        <a href="{{ url('/') }}"><img src="{{ asset('Premab-Afrique-logo-mini.png') }}" alt="" class="img-fluid"></a>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul class="nav-inner">
-          <li class="active"><a href="index.html">Acceuil</a></li>
+          <li class="active"><a href="{{ url('/') }}">Acceuil</a></li>
 
           <li class="drop-down"><a href="">A propos</a>
             <ul>
               <li><a href="#about">A propos de nous</a></li>
-              <li><a href="#team">Team</a></li>
+              <li><a href="#team">Promoteurs</a></li>
             </ul>
           </li>
 
@@ -27,11 +27,11 @@
             </ul>
           </li>
 
-          <li class="nav-logo"><a href="{{ url('/') }}"><img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid"></a></li>
+          <li class="nav-logo"><a href="{{ url('/') }}"><img src="{{ asset('Premab-Afrique-logo-mini.png') }}" alt="" class="img-fluid header-logo"></a></li>
 
           <li><a href="#portfolio">Divers</a></li>
-          <li><a href="#pricing">Evenements</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#pricing">Actualités</a></li>
+          <li><a href="#contact">Contacts</a></li>
 
         </ul>
       </nav><!-- .nav-menu -->

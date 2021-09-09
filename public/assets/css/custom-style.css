@@ -1,0 +1,26 @@
+.actu-img {
+    border-radius: 10px;
+}
+
+.actu-box {
+    transition: box-shadow 0.5s, transform 0.5s !important;
+}
+
+.actu-box:hover {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+    transform: scale(1.05) !important;
+}
+
+.actu-row {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.header-logo {
+    object-fit: contain;
+    /*height: 57px !important;*/
+}
+
+#hero {
+    transition: background 0.5s !important;
+}

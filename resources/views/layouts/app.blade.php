@@ -22,7 +22,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
-      <a href="{{ url('/') }}" class="hero-logo" data-aos="zoom-in"><img src="{{ asset('assets/img/hero-logo.png') }}" alt=""></a>
+      <a href="{{ url('/') }}" class="hero-logo hero-logo-custom" data-aos="zoom-in"><img src="{{ asset('Premab-Afrique-logo.png') }}" alt=""></a>
       <h1 data-aos="zoom-in">PREMAB-Afrique</h1>
       <h2 data-aos="fade-up">Nous somme ensemble pour mieux construire</h2>
       <a data-aos="fade-up" href="#about" class="btn-get-started scrollto">Commencer</a>

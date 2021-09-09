@@ -19,11 +19,11 @@
           <div class="col-lg-6" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
               <h3>Ensemble pour mieux construire</h3>
-              <p class="font-italic text1">
-                Premab-afique est une entreprise de construction spécialisée dans le génie civil, le génie public et d'autres domaines. 
-                Nous possédons une vaste expertise dans  la  construction, la rénovation, l'électricité, l'etude et la conception de plan... 
-                Premab-afique réalise tous travaux de gros œuvre et rénovation, ainsi que toutes les structures du bâtiment, se positionnant ainsi comme 
-                un interlocuteur fiable dans le domaine de la construction  
+              <p class="font-italic text">
+                Premab-afique est une entreprise de construction spécialisée dans le génie civil, le génie public et d'autres domaines.
+                Nous possédons une vaste expertise dans  la  construction, la rénovation, l'électricité, l'etude et la conception de plan...
+                Premab-afique réalise tous travaux de gros œuvre et rénovation, ainsi que toutes les structures du bâtiment, se positionnant ainsi comme
+                un interlocuteur fiable dans le domaine de la construction
                 l'entreprise s’appuie sur son professionnalisme et une réelle culture industrielle pour vous proposer la solution la mieux adaptée à vos besoins.
               </p>
             </div>
@@ -34,15 +34,15 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
-   
+
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
           <div class="section-title">
               <h2>Services</h2>
-              <p>Nous avons à notre actif une multitude de services qui repondrons à tous vos besoins tels qui soit.</p>
+              <p>Nous avons à notre actif une multitude de services qui repondrons à tous vos besoins quels qui soit.</p>
           </div>
           <div class="row">
-  
+
               <div class="col-xl-3 col-md-6 d-flex align-items-stretch " data-aos="zoom-in" data-aos-delay="100">
                   <div class="icon-box">
                       <div class="icon"><i class="bx bxl-dribbble"></i></div>
@@ -55,7 +55,7 @@
                   <div class="icon-box">
                       <div class="icon"><i class="bx bx-file"></i></div>
                       <h4><a href="">Conception de plan</a></h4>
-                      <p>Nous nous occupons de concevoir l'architecture de votre maison et de faire de devis.</p>
+                      <p>Nous nous occupons de concevoir l'architecture de votre maison et son devis.</p>
                   </div>
               </div>
 
@@ -63,7 +63,7 @@
                   <div class="icon-box">
                       <div class="icon"><i class="bx bx-tachometer"></i></div>
                       <h4><a href="">Fabrication de vitre (Vitrerie)</a></h4>
-                      <p>Nous disposons d'un attelier entièrement dedier au vitrage, nous produisons et vendons des vitres. </p>
+                      <p>Nous disposons d'un atelier entièrement dédié au vitrage, nous produisons et vendons des vitres. </p>
                   </div>
               </div>
 
@@ -113,26 +113,24 @@
                 <a class="nav-link active show" data-toggle="tab" href="#tab-1">
                   <h4>Nos objectifs</h4>
                   <p>
-                    Premab-afique, a pour objectif de rassurer toutes personnes de la diaspora, les nationaux et tout autre individu à investir dans l'immobilier tout en étant rassurer.
+                    Premab-afique a pour objectif de rassurer toutes les personnes de la diaspora, les nationaux et tout autre individu à investir dans l'immobilier tout en étant rassuré.
                   </p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-2">
-                  <h4>Nos Atous</h4>
+                  <h4>Nos Atouts</h4>
                   <p>
-                    Nous avons du personnel très qualifié, une équipe composé  d'architectes, d'ingénieurs et techniciens disponible pour vous.
+                    Nous avons du personnel très qualifié, une équipe composée d'architectes, d'ingénieurs et de techniciens disponible pour vous.
                     Nous avons de nombreuses compétences, représentées par les moyens humains déployés pour chaque chantier :
-                    un bureau d’étude interne,
-                    un conducteur de travaux,
-                    un chef de chantier et son équip...
+                    un bureau d’étude interne, un conducteur de travaux, un chef de chantier et son équipe, etc.
                   </p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-3">
                   <h4>La Commercialisation</h4>
-                  <p> En plus de vous offrir ses services Les,  PREMAB-Afrique vends ces produits aux structures immobilières et aux particuliers...</p>
+                  <p> En plus de vous offrir ses services, PREMAB-Afrique vends ces produits aux structures immobilières et aux particuliers.</p>
                 </a>
               </li>
             </ul>
@@ -147,7 +145,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Nos oeuvres</h2>
+          <h2>Nos réalisations</h2>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -260,35 +258,48 @@
 
           <div class="testimonial-item">
             <p>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                la Société de Préfabrication des Matériaux en Béton (PREMAB-Afrique) contribue
+                véritablement aux programmes de construction de logements, d’écoles et de
+                réhabilitation de la voirie urbaine à Abidjan et dans les villes
+                de l’intérieur.
             </p>
             <h3>Kouakou jean</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                PREMAB-Afrique envisage d'apporter sa participation de façon directe ou indirecte
+                dans toutes entreprises ou sociétés ivoiriennes ou étrangères créées ou à créer,
+                ayant un objet similaire ou connexe, notamment par voie de souscription ou d’achat
+                de titres de création de sociétés nouvelles, d’apports, fusion, alliance ou
+                associations en participation, groupement d’intéret économique.
             </p>
             <h3>Tanoh Bouadou</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                Nous sommes heureux de travailler en collaboration avec la Société de
+                Préfabrication des Matériaux en Béton au vu de leur organisation remarquable
+                et leur façon de travailler faisant ressortir leur professionnalisme.
             </p>
             <h3>Tahi Ezan</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                L’objectif est de réaliser un niveau de production et de 13 840 000 pavées de luxe
+                de pavage par an afin de satisfaire le marché de l’immobilier, des voiries urbaines,
+                des places publiques et du réseau routier.
             </p>
             <h3>Koffi Kouassi</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                Le pavage est une solution plus durable que le goudronnage (30 à 40 ans par rapport
+                à 15 ans). Il permet en outre de modifier ou de rectifier plus facilement les routes.
+                Heureusement que c'est l'une des spécialité de PREMAB-Afrique !
             </p>
             <h3>Kone Abdel</h3>
           </div>
@@ -376,7 +387,7 @@
               <div class="member-info">
                 <h4>SILUE Chifolo</h4>
                 <span>Commerçant</span>
-                <p>SILUE Chifolo , Commerçant demeurant à Abidjan 17 BP 1029 Abidjan 17.</p>
+                <p>SILUE Chifolo, Commerçant demeurant à Abidjan 17 BP 1029 Abidjan 17.</p>
               </div>
             </div>
           </div>
@@ -410,30 +421,28 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Pourquoi nous choisir ?</h2>
+          <h2>Actualités</h2>
         </div>
 
-        <div class="row">
+        <div class="row actu-row">
 
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Actualité 1 (image) </h3>
-            </div>
+            <a href="https://www.facebook.com/Premab-Afrique-KONAN-102017285410702/photos/pcb.118587340420363/118587200420377/">
+                <div class="box actu-box" data-aos="zoom-in" data-aos-delay="100">
+                    <img src="{{ asset('assets/img/construction-1.jpg') }}" class="img-fluid actu-img" alt="">
+                    <h3 class="text">Implantation des poteaux en semelles isolees et fosse septique.</h3>
+                </div>
+            </a>
           </div>
 
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Actualité 2 (image) </h3>
-            </div>
+        <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+            <a href="https://www.facebook.com/102017285410702/photos/a.102020655410365/102020632077034">
+                <div class="box actu-box" data-aos="zoom-in" data-aos-delay="100">
+                    <img src="{{ asset('assets/img/cuisine-moderne.jpg') }}" class="img-fluid actu-img" alt="">
+                    <h3 class="text">Présentation d'une cuisine moderne</h3>
+                </div>
+            </a>
           </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Actualité 3 (image) </h3>
-            </div>
-          </div>
-
-
 
         </div>
 
@@ -454,7 +463,8 @@
             <a data-toggle="collapse" class="collapsed" href="#faq1">Puis-je obtenir un devis de travaux détaillé ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-parent=".faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  Oui, les devis que nous proposons sont fonctions des travaux à faire sur le
+                  chantier et montre en totalité les dépenses qui y sont associées.
               </p>
             </div>
           </li>
@@ -463,7 +473,7 @@
             <a data-toggle="collapse" href="#faq2" class="collapsed">Détenez-vous toutes les assurances légales ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq2" class="collapse" data-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                Oui.
               </p>
             </div>
           </li>
@@ -472,7 +482,8 @@
             <a data-toggle="collapse" href="#faq3" class="collapsed">Quelles qualifications affichez-vous ? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq3" class="collapse" data-parent=".faq-list">
               <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                  Nous sommes qualifiés dans le domaine de la construction et la rénovation,
+                  dans la conception de plans sur mesures, dans la vitrerie et dans la pavage.
               </p>
             </div>
           </li>
@@ -481,7 +492,11 @@
             <a data-toggle="collapse" href="#faq4" class="collapsed">Quelles sont vos références ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq4" class="collapse" data-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                PREMAB-AFRIQUE SARL AU CAPITAL DE 1.000.000 FCA<br>
+                RCCM : CI-ABJ-2014-24601<br>
+                CC : 1444336Y<br>
+                CNPS : 245257<br>
+                ABIDJAN-TIASSALE 17 BP 1029 ABIDJAN 17
               </p>
             </div>
           </li>
@@ -490,7 +505,8 @@
             <a data-toggle="collapse" href="#faq5" class="collapsed">À quelles aides puis-je prétendre pour mes travaux de rénovation ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq5" class="collapse" data-parent=".faq-list">
               <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                Des aides en tout genre en passant par la restauration de vos mobiliers jusqu'au
+                retapage complet de votre appartement.
               </p>
             </div>
           </li>
@@ -499,7 +515,8 @@
             <a data-toggle="collapse" href="#faq6" class="collapsed">Quelle date pour quel livrable ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq6" class="collapse" data-parent=".faq-list">
               <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+                  Les dates varient en fonction de la demande, quantité et des spécificités
+                  des matériaux.
               </p>
             </div>
           </li>

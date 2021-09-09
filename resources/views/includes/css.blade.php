@@ -12,6 +12,9 @@
 <!-- Template Main CSS File -->
 <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 
+<!-- Custom CSS File -->
+<link href="{{ asset('assets/css/custom-style.css') }}" rel="stylesheet">
+
 
 <!-- =======================================================
 * Template Name: Knight - v2.2.1
