@@ -153,7 +153,7 @@
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter="*" class="filter-active">Tout</li>
               <li data-filter=".filter-app">attelier</li>
               <li data-filter=".filter-card">chantier</li>
             </ul>
@@ -168,7 +168,7 @@
               <div class="portfolio-info">
                 <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio//vitre1.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="{{ asset('assets/img/portfolio//vitre1.jpg') }}" data-gall="portfolioGallery" class="venobox" ><i class="bx bx-plus"></i></a>
                   </a>
                 </div>
               </div>
@@ -183,24 +183,11 @@
               <div class="portfolio-info">
                 <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/vitre2.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/vitre2.jpg') }}" data-gall="portfolioGallery" class="venobox" ><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/vitre3.jpg') }}" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Voir plus</h4>
-                <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/vitre3.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
 
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -208,9 +195,8 @@
               <img src="{{ asset('assets/img/portfolio/materiel1.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Voir plus</h4>
-
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/materiel1.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/materiel1.jpg') }}" data-gall="portfolioGallery" class="venobox" ><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -218,11 +204,24 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/materiel2.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/chantier1.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/materiel2.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/chantier1.jpg') }}" data-gall="portfolioGallery" class="venobox" ><i class="bx bx-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="{{ asset('assets/img/portfolio/chantier2.jpg') }}" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Voir plus</h4>
+                <div class="portfolio-links">
+                  <a href="{{ asset('assets/img/portfolio/chantier2.jpg') }}" data-gall="portfolioGallery" class="venobox" ><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -230,11 +229,11 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/materiel3.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/chantier3.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/materiel3.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/chantier3.jpg') }}" data-gall="portfolioGallery" class="venobox" ><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -263,35 +262,35 @@
             <p>
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
             </p>
-            <h3>Saul Goodman</h3>
+            <h3>Kouakou jean</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
               Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
             </p>
-            <h3>Sara Wilsson</h3>
+            <h3>Tanoh Bouadou</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
               Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
             </p>
-            <h3>Jena Karlis</h3>
+            <h3>Tahi Ezan</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
             </p>
-            <h3>Matt Brandon</h3>
+            <h3>Koffi Kouassi</h3>
           </div>
 
           <div class="testimonial-item">
             <p>
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
             </p>
-            <h3>John Larson</h3>
+            <h3>Kone Abdel</h3>
           </div>
 
         </div>
@@ -411,7 +410,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Actualités</h2>
+          <h2>Pourquoi nous choisir ?</h2>
         </div>
 
         <div class="row">
