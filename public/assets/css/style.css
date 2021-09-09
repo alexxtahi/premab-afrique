@@ -356,6 +356,7 @@ h6 {
     height: 80vh;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil3.jpg') no-repeat;
     position: relative;
+    animation: slide 40s infinite;
 }
 
 #hero .hero-container {
@@ -979,7 +980,7 @@ section {
 
 .testimonials {
     padding: 60px 0;
-    background: url("../img/testimonials-bg.jpg") no-repeat;
+    background: url("../img/commentaire.jpg") no-repeat;
     background-position: center center;
     background-size: cover;
     position: relative;
@@ -1798,3 +1799,24 @@ section {
 .ombre :hover {
     box-shadow: 0px 0 25px rgb(0 0 0 / 8%);
 }
+
+.switch1 {
+    animation: slide 20s infinite;
+}
+
+@keyframes slide {
+    0% {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil3.jpg') no-repeat;
+    }
+    33.33% {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil1.jpg') no-repeat;
+    }
+    99.99% {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil2.jpg') no-repeat;
+    }
+    100% {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil4.jpg') no-repeat;
+    }
+}
+
+;

@@ -13,7 +13,7 @@
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <div class="image">
-              <img src="{{ asset('assets/img/image2.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/image2.jpg') }}" class="img-fluid switch1" alt="">
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-left">
@@ -55,7 +55,7 @@
                   <div class="icon-box">
                       <div class="icon"><i class="bx bx-file"></i></div>
                       <h4><a href="">Conception de plan</a></h4>
-                      <p>Nous nous occupons de concevoir l'architecture de votre et de faire de devis.</p>
+                      <p>Nous nous occupons de concevoir l'architecture de votre maison et de faire de devis.</p>
                   </div>
               </div>
 
@@ -87,17 +87,17 @@
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <figure>
-                  <img src="{{ asset('assets/img/featured-1.png') }}" alt="" class="img-fluid">
+                  <img src="{{ asset('assets/img/atouts1.jpg') }}" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-2">
                 <figure>
-                  <img src="{{ asset('assets/img/featured-2.png') }}" alt="" class="img-fluid">
+                  <img src="{{ asset('assets/img/atouts.jpg') }}" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-3">
                 <figure>
-                  <img src="{{ asset('assets/img/featured-3.png') }}" alt="" class="img-fluid">
+                  <img src="{{ asset('assets/img/atouts2.jpg') }}" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-4">
@@ -111,32 +111,28 @@
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-toggle="tab" href="#tab-1">
-                  <h4>Nos Atous</h4>
+                  <h4>Nos objectifs</h4>
                   <p>
-                    Du personnel très qualifié
-De nombreuses compétences, représentées par les moyens humains déployés pour chaque chantier :
-Un bureau d’étude interne
-Un conducteur de travaux
-Un responsable HSE
-Un chef de chantier et son équip
-                    <ul> 
-                      <li></li>
-
-                    </ul>
+                    Premab-afique, a pour objectif de rassurer toutes personnes de la diaspora, les nationaux et tout autre individu à investir dans l'immobilier tout en étant rassurer.
                   </p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-2">
-                  <h4>La pavage</h4>
-                  <p>Ce département vise la pose de pavés sur les Voiries et Réseaux Divers (VRD), dans la construction et la
-                    réhabilitation des logements, des écoles, des universités...</p>
+                  <h4>Nos Atous</h4>
+                  <p>
+                    Nous avons du personnel très qualifié, une équipe composé  d'architectes, d'ingénieurs et techniciens disponible pour vous.
+                    Nous avons de nombreuses compétences, représentées par les moyens humains déployés pour chaque chantier :
+                    un bureau d’étude interne,
+                    un conducteur de travaux,
+                    un chef de chantier et son équip...
+                  </p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-3">
                   <h4>La Commercialisation</h4>
-                  <p>Les produits de PREMAB-Afrique seront vendus aux structures immobilières et aux particuliers...</p>
+                  <p> En plus de vous offrir ses services Les,  PREMAB-Afrique vends ces produits aux structures immobilières et aux particuliers...</p>
                 </a>
               </li>
             </ul>
@@ -151,15 +147,15 @@ Un chef de chantier et son équip
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Divers</h2>
+          <h2>Nos oeuvres</h2>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
+              <li data-filter=".filter-app">attelier</li>
+              <li data-filter=".filter-card">chantier</li>
             </ul>
           </div>
         </div>
@@ -168,13 +164,12 @@ Un chef de chantier et son équip
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/image01.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/vitre1.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/image001.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="{{ asset('assets/img/portfolio//vitre1.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                  </a>
                 </div>
               </div>
             </div>
@@ -184,13 +179,11 @@ Un chef de chantier et son équip
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/image02.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/vitre2.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/image002.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/vitre2.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -198,13 +191,11 @@ Un chef de chantier et son équip
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/image002.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/vitre3.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/portfolio-4.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/vitre3.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -214,13 +205,12 @@ Un chef de chantier et son équip
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/Image03.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/materiel1.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Voir plus</h4>
+
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/portfolio-6.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/materiel1.jpg') }}" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -228,13 +218,11 @@ Un chef de chantier et son équip
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/image001.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/materiel2.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/portfolio-7.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/materiel2.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
@@ -242,13 +230,11 @@ Un chef de chantier et son équip
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="{{ asset('assets/img/portfolio/image003.jpg') }}" class="img-fluid" alt="">
+              <img src="{{ asset('assets/img/portfolio/materiel3.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Voir plus</h4>
                 <div class="portfolio-links">
-                  <a href="{{ asset('assets/img/portfolio/portfolio-8.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="{{ asset('assets/img/portfolio/materiel3.jpg') }}" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
