@@ -165,6 +165,14 @@
     items: 1
   });
 
+      // Testimonials carousel (uses the Owl Carousel library)
+  $(".hero-carousel").owlCarousel({
+    autoplay: true,
+    dots: true,
+    loop: true,
+    items: 1
+  });
+
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
     autoplay: true,

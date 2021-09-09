@@ -22,5 +22,5 @@
 }
 
 #hero {
-    transition: background 0.5s !important;
+    transition: background 0.5s;
 }
