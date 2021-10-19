@@ -350,52 +350,39 @@ h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-@keyframes slide {
 
+@keyframes slide {
     0% {
         opacity: 1;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            center / cover url('../img/acceuil3.jpg') no-repeat;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil3.jpg') no-repeat;
     }
-
     12% {
         opacity: 0;
     }
-
     25% {
         opacity: 1;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            center / cover url('../img/acceuil1.jpg') no-repeat;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil1.jpg') no-repeat;
     }
-
     37% {
         opacity: 0;
     }
-
     50% {
         opacity: 1;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            center / cover url('../img/acceuil2.jpg') no-repeat;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil2.jpg') no-repeat;
     }
-
     62% {
         opacity: 0;
     }
-
     75% {
         opacity: 1;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            center / cover url('../img/acceuil4.jpg') no-repeat;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil4.jpg') no-repeat;
     }
-
     87% {
         opacity: 0;
     }
-
     100% {
         opacity: 1;
-        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-            center / cover url('../img/acceuil3.jpg') no-repeat;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center / cover url('../img/acceuil3.jpg') no-repeat;
     }
 }
 
@@ -472,7 +459,6 @@ h6 {
         font-size: 28px;
         line-height: 36px;
     }
-
     #hero h2 {
         line-height: 22px;
     }
@@ -630,7 +616,6 @@ section {
     0% {
         opacity: 0;
     }
-
     100% {
         opacity: 1;
     }
@@ -640,7 +625,6 @@ section {
     0% {
         opacity: 0;
     }
-
     100% {
         opacity: 1;
     }
@@ -827,7 +811,6 @@ section {
 }
 
 @media (max-width: 1024px) {
-
     .why-us .content,
     .why-us .accordion-list {
         padding-left: 0;
@@ -839,7 +822,6 @@ section {
     .why-us .content {
         padding-top: 30px;
     }
-
     .why-us .accordion-list {
         padding-bottom: 30px;
     }
@@ -850,7 +832,6 @@ section {
         transform: scale(0.6, 0.6);
         opacity: 1;
     }
-
     100% {
         transform: scale(1, 1);
         opacity: 0;
@@ -862,7 +843,6 @@ section {
         transform: scale(0.6, 0.6);
         opacity: 1;
     }
-
     100% {
         transform: scale(1, 1);
         opacity: 0;
@@ -1565,7 +1545,6 @@ section {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -1575,7 +1554,6 @@ section {
     0% {
         transform: rotate(0deg);
     }
-
     100% {
         transform: rotate(360deg);
     }
@@ -1619,11 +1597,9 @@ section {
     .breadcrumbs .d-flex {
         display: block !important;
     }
-
     .breadcrumbs ol {
         display: block;
     }
-
     .breadcrumbs ol li {
         display: inline-block;
     }
